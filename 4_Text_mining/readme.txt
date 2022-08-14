@@ -1,7 +1,7 @@
 Follows the sequential order
 
-1. Text pre-processing
-2. Word embeddings
-3. Data Organization
+1. text_preprocessing
+2. word_embeddings
+3. data_organization
 
 
