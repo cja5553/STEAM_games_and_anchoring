@@ -1,4 +1,4 @@
-# Codes used to MSc Dissertation titled "The role of default-displayed reviews in anchoring online reviewers: text evidence from STEAM video-games"
+# Codes used for MSc Dissertation titled "The role of default-displayed reviews in anchoring online reviewers: text evidence from STEAM video-games"
 
 ## By Charles Alba
 
