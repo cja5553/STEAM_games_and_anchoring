@@ -19,5 +19,3 @@ Data was scrapped and gathered courtesy of STEAM API. Please refer and abide to 
 Cite as: Alba, C., Walasek, L., Spektor M. "The role of default-displayed reviews in anchoring online reviewers: text evidence from STEAM video-games" Master's Dissertation. University of Warwick. 
 
 
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=nnko53ZagKisQpr4x_nmuX6dLDlkVEwldAIG5KMDQ18&cl=ffffff&w=a"></script>
